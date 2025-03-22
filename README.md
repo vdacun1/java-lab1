@@ -99,3 +99,5 @@ La Programación Orientada a Objetos (POO) es un paradigma de programación que 
 Este repositorio se utilizará para realizar todos los proyectos de la materia Laboratorio 1 de la facultad. Los proyectos serán en Java y cubrirán todos los temas mencionados anteriormente. A medida que avancemos en el curso, se agregarán más ejemplos y ejercicios prácticos para reforzar los conceptos aprendidos en clase.
 
 ¡Bienvenidos al Laboratorio 1 de Java y feliz programación!
+
+Esto es IA
