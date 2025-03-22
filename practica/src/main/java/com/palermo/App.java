@@ -1,13 +1,19 @@
 package com.palermo;
 
-/**
- * Hello world!
- *
- */
-public class App 
+import com.palermo.ejercicio_computadoras.Computadora;
+import com.palermo.ejercicio_computadoras.Disco;
+import com.palermo.ejercicio_computadoras.Procesador;
+
+public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hola Mundo" );
+    Disco disco = new Disco();
+    disco.marca = "SeaGate";
+    disco.velocidad = 10;
+    Procesador procesador = new Procesador();
+    Computadora computadora = new Computadora();
+    computadora.disco = disco;
+    computadora.mostrar();
     }
 }
